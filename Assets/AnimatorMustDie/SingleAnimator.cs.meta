@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dd5bbb05e232d44808c0d254fe1c89a4
+timeCreated: 1435467128
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - overrideController: {instanceID: 0}
+  - originalClip: {fileID: 7432970, guid: 160c870a76f1747a3a698703ab00f048, type: 2}
+  - originalAnimationController: {fileID: 9100000, guid: 160c870a76f1747a3a698703ab00f048,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
